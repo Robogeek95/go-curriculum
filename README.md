@@ -4,6 +4,13 @@
 This is my study guide to help me cover topics in go deeply. 
 I am switching from software development to software engineering and i have chosen go as my language for the interview.
 
+## Resources
+[GoLangDocs](https://golangdocs.com/)
+
+[A tour of Go](https://tour.golang.org/)
+
+[Learn Go with test-driven development](https://github.com/quii/learn-go-with-tests)
+
 ## The Curriculum
 I borrowed some of the curriculum contents from [Gopher Guides](https://www.gopherguides.com/). They provide instructor led one on one virtual training. They already cover most of the curriculum saving you time of hunting for materials.
 
@@ -26,6 +33,8 @@ Five days deep dive into Go. It's self paced but i suggested you try to stick to
   - [ ] different types of string literals will also be covered
   - [ ] declaring variables and constants
   - [ ] how to use iota in Go.
+
+https://pandulaofficial.medium.com/unicode-utf-8-explained-with-examples-using-go-5f8b7f4521d
 
 ### **Arrays And Iteration**
 
